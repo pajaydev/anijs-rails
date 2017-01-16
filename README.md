@@ -33,15 +33,14 @@ Or install it yourself as:
  3. Good to go, you can play now. There are lot of syntax (For Example: you can add this attribute
     data-anijs="if: click, do: flipInY animated" to your html tag for flip in animation)
     
- 4. You can verify those syntax in http://anijs.github.io/
+ 4. You can check and use these syntax in  [anijs.io](http://anijs.github.io/)
  
       
    
-## Development
+## Issues
 
-After checking out the repo, run `bin/setup` to install dependencies. You can also run `bin/console` for an interactive prompt that will allow you to experiment.
+ If you have any issues you can report it here [issues](https://github.com/ajay2507/anijs-rails/issues)
 
-To install this gem onto your local machine, run `bundle exec rake install`. To release a new version, update the version number in `version.rb`, and then run `bundle exec rake release`, which will create a git tag for the version, push git commits and tags, and push the `.gem` file to [rubygems.org](https://rubygems.org).
 
 
 ## License
